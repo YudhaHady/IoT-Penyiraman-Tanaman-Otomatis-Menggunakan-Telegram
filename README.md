@@ -1,7 +1,7 @@
 # IoT-Penyiraman-Tanaman-Otomatis-Menggunakan-Telegram
 PPL
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://imgur.com/cbI3TRq)](https://youtu.be/vt5fpE0bzSY)
 
 
 Bot_Telegram : https://t.me/pplArduino_bot
