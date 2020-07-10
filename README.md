@@ -3,7 +3,8 @@
 <h1><b>Vidio Demo Alat</b></h1>
 
 [![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo)
-Bot_Telegram : https://t.me/pplArduino_bot
+
+<h2><b>Bot_Telegram : </b></h2>https://t.me/pplArduino_bot
 
 <b>RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN</b>
 1.	Tanaman Kuping Gajah (Anthurium)
