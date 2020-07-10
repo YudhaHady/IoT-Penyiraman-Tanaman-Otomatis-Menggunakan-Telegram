@@ -1,10 +1,10 @@
 # IoT-Penyiraman-Tanaman-Otomatis-Menggunakan-Telegram
 
-<h1><b>Vidio Demo Alat</b></h1>
+<h2><b>Vidio Demo Alat</b></h2>
 
 [![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo)
 
-<h2><b>Bot_Telegram : </b></h2>https://t.me/pplArduino_bot
+<h2><b>Bot_Telegram :</b></h2>https://t.me/pplArduino_bot
 
 <b>RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN</b>
 1.	Tanaman Kuping Gajah (Anthurium)
