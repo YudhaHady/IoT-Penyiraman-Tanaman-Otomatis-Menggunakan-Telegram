@@ -3,6 +3,9 @@ PPL
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
+
+Bot_Telegram : https://t.me/pplArduino_bot
+
 RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN
 1.	Tanaman Kuping Gajah (Anthurium)
 -	Air dan Kelembaban : 60% - 80%
