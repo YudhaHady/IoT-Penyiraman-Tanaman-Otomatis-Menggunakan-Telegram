@@ -12,7 +12,9 @@
 -	Air dan Kelembaban : 60% - 80%
 -	Suhu : 24 – 28 ˚C pada siang hari dan 18 – 21 ˚C pada malam hari
 -	Cahaya Matahari : 30% - 60%
+
 Sumber : https://sumberbelajar.belajar.kemdikbud.go.id/sumberbelajar/tampil/Budidaya-Anthurium-Daun-di-Lahan--2010/konten1.html#:~:text=Sesuai%20habitat%20tumbuhnya%20di%20hutan,dan%20bakteri%20pada%20media%20tanam. 
+
 2.	Tanaman Bunga Jagung
 -	Air dan Kelembaban : 100 %, 90 %, dan 80% kapasitas lapang.
 -	Suhu : 23 – 27 ˚C 
