@@ -2,7 +2,7 @@
 
 <h2><b>Vidio Demo Alat</b></h2>
 
-[![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo)
+[![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo)<base target='_blank'/>
 
 <b>Bot_Telegram :</b>https://t.me/pplArduino_bot
 
