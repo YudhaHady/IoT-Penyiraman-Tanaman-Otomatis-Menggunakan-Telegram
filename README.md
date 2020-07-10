@@ -1,5 +1,4 @@
 # IoT-Penyiraman-Tanaman-Otomatis-Menggunakan-Telegram
-PPL
 
 <h1><b>Vidio Demo Alat</b></h1>
 
