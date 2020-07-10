@@ -1,5 +1,8 @@
 # IoT-Penyiraman-Tanaman-Otomatis-Menggunakan-Telegram
 PPL
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/drive/folders/1rsG6KHqciHVgwZfw-pbwaNJuKFfLfKG0)
+
 RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN
 1.	Tanaman Kuping Gajah (Anthurium)
 -	Air dan Kelembaban : 60% - 80%
