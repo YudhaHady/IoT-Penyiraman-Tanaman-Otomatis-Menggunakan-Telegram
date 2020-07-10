@@ -3,7 +3,7 @@ PPL
 
 <h1><b>Vidio Demo Alat</b></h1>
 
-[![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo){:target="_blank"}
+[![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo{:target="_blank"})
 
 
 Bot_Telegram : https://t.me/pplArduino_bot
