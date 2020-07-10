@@ -3,12 +3,10 @@ PPL
 
 <h1><b>Vidio Demo Alat</b></h1>
 
-[![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo){target="_blank" rel="noopener"}
-
-
+[![Contoh Demo Alat](https://i.imgur.com/cbI3TRq.png)](https://www.youtube.com/watch?v=_d9SjhDj1yo)
 Bot_Telegram : https://t.me/pplArduino_bot
 
-RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN
+<b>RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN</b>
 1.	Tanaman Kuping Gajah (Anthurium)
 -	Air dan Kelembaban : 60% - 80%
 -	Suhu : 24 – 28 ˚C pada siang hari dan 18 – 21 ˚C pada malam hari
