@@ -6,7 +6,8 @@
 
 <b>Bot_Telegram :</b>https://t.me/pplArduino_bot
 
-<h3><b>RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN</b></h3>
+<b>RISET FAKTOR – FAKTOR YANG MEMPENGARUHI PERTUMBUHAN TANAMAN</b>
+  
 1.	Tanaman Kuping Gajah (Anthurium)
 -	Air dan Kelembaban : 60% - 80%
 -	Suhu : 24 – 28 ˚C pada siang hari dan 18 – 21 ˚C pada malam hari
